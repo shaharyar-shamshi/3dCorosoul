@@ -1,4 +1,6 @@
-# Corosoul
+# 3d Carosoul
+
+This is Angular implementation of the 3D Carosoul which is purely written using javascript no third pary library(As only one library exist that too with more issue issue than star ). I hope this might help people who want to implement the 3D carosoul by fetching image.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.0.
 
