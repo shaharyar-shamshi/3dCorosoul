@@ -3,7 +3,9 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-  production: false
+  production: false,
+  client_id: " enter the unsplash client id",
+  url: "https://api.unsplash.com/photos"
 };
 
 /*
